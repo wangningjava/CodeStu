@@ -1,3 +1,0 @@
-test github
-test github1
-test github2 branch
